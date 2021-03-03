@@ -19,4 +19,4 @@ Are there easier solutions for this? Probably, but where's the fun in that?
   - No logon, no data saved. Just a list of videos you might want to watch. 
 
 ### Ideas:
-- Maybe instead of using the username and accessing all subscriptions, a custom group can be made. Lets face it, we don't really care to watch every new video from every channel we subscribe to; we have favorites. 
+- Maybe instead of using the username and accessing all subscriptions, a custom group can be made. Lets face it, we don't really care to watch every new video from every channel we subscribe to; we have favorites. Probably search by username OR channel name.
